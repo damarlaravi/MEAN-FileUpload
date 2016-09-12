@@ -1,0 +1,12 @@
+{
+  "name": "building-angular",
+  "version": "0.0.1",
+  "appPath": "public",
+  "dependencies": {
+    "bootstrap": "*",
+    "angular": "*",
+    "angular-ui": "*",
+    "angular-file-upload": "*",
+    "ng-file-upload":"*"
+  }
+}
