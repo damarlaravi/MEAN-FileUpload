@@ -1,0 +1,30 @@
+{
+  "name": "expapp",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/app.js"
+  },
+  "repository": "https://github.com/damarlaravi/MEAN-FileUpload.git",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "*",
+    "gulp-develop-server": "*",
+    "gulp-jshint": "^2.0.4",
+    "gulp-livereload": "^3.8.1",
+    "gulp-nodemon": "^2.2.1",
+    "gulp-watch": "^4.3.11",
+    "jshint": "^2.9.4"
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "busboy-body-parser": "^0.2.0",
+    "express": "*",
+    "fs": "0.0.2",
+    "gridfs-stream": "^1.1.1",
+    "mongoose": "^4.7.2",
+    "multer": "*"
+  }
+}
